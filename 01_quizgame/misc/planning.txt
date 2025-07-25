@@ -1,0 +1,9 @@
+quiz game
+
+1. ask a series of questions
+2. provide options for answers
+3. determine if correct, incorrect, or other
+4. rpt
+5. tally a score
+
+1. get a dicitionary of objects which have a question option and answer keys

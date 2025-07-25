@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["A) Berlin", "B) Paris", "C) Madrid", "D) Rome"],
+        "answer": "B) Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A) Venus", "B) Mars", "C) Jupiter", "D) Saturn"],
+        "answer": "B) Mars"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["A) Elephant", "B) Blue Whale", "C) Giraffe", "D) Orca"],
+        "answer": "B) Blue Whale"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["A) William Shakespeare", "B) Charles Dickens", "C) J.K. Rowling", "D) Mark Twain"],
+        "answer": "A) William Shakespeare"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["A) 1", "B) 2", "C) 3", "D) 5"],
+        "answer": "B) 2"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["A) H2O", "B) CO2", "C) O2", "D) H2"],
+        "answer": "A) H2O"
+    },
+    {
+        "question": "Which country is famous for the maple leaf symbol?",
+        "options": ["A) USA", "B) Canada", "C) Australia", "D) Germany"],
+        "answer": "B) Canada"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["A) 50°C", "B) 75°C", "C) 100°C", "D) 150°C"],
+        "answer": "C) 100°C"
+    },
+    {
+        "question": "Who discovered gravity by observing a falling apple?",
+        "options": ["A) Galileo", "B) Newton", "C) Einstein", "D) Tesla"],
+        "answer": "B) Newton"
+    },
+    {
+        "question": "Which gas do plants primarily use during photosynthesis?",
+        "options": ["A) Oxygen", "B) Nitrogen", "C) Carbon Dioxide", "D) Hydrogen"],
+        "answer": "C) Carbon Dioxide"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "bitches",
+            "expense": 10000.0,
+            "budget": -9000.0
+        }
+    ]
+}

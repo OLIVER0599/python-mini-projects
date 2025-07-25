@@ -1,0 +1,31 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Step size and simulation length
+T = 0.1
+N = 100  # number of time steps
+t = np.arange(0, N+1) * T  # time vector
+
+# Initialize list of y values (discrete step response)
+y = [0] * (N + 1)
+y[0] = 0
+y[1] = 0
+
+# Apply the recurrence relation (discrete version of ODE)
+for n in range(0, N - 1):
+    y[n+2] = 2 * y[n+1] - (1 + T**2) * y[n] + T**2
+
+# Analytic step response for comparison
+y_analytic = 1 - np.cos(t)
+
+# Plot both
+plt.figure(figsize=(10, 5))
+plt.plot(t, y_analytic, label="Analytic: $1 - \\cos(t)$", linewidth=2)
+plt.plot(t, y, 'ro--', label="Discrete Approximation", markersize=4)
+plt.xlabel("Time (t)")
+plt.ylabel("y(t)")
+plt.title("Step Response: Discrete Approximation vs Analytic Solution")
+plt.grid(True)
+plt.legend()
+plt.tight_layout()
+plt.show()
