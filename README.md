@@ -1,11 +1,5 @@
 # python-mini-projects
-Collection of small Python projects created during my second year at Griffith
-
-#  Python Mini Projects
-
-This repository contains a collection of beginner-friendly Python mini projects developed during my studies in Electrical Engineering and Computer Science at Griffith University.
-
-Each project focuses on building logical thinking, user interaction, and foundational programming concepts. These scripts were written in Python 3 and run in the command line or terminal environment.
+Collection of small Python projects created during my first year at Griffith
 
 ---
 
