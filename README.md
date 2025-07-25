@@ -25,7 +25,7 @@ Models and visualizes the Fibonacci sequence using both recursive and closed-for
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - NumPy & Matplotlib (for Fibonacci project)
@@ -34,14 +34,7 @@ Models and visualizes the Fibonacci sequence using both recursive and closed-for
 
 ---
 
-##  About Me
-
-Hi, I'm **Ruben Restrepo**, a second-year student studying **Electrical Engineering and Computer Science** (majoring in Data Science and AI) at Griffith University. This repository is part of my learning journey as I grow my programming and engineering skills.
-
-
----
-
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
 ```bash
